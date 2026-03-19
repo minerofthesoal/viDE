@@ -2,7 +2,7 @@
 
 ## Overview
 
-**vibe(O)s** (formerly ArchForge) is a truly custom Desktop Environment (DE) built from the ground up, accompanied by a multi-file automated installer. It is designed to deliver a heavily customized Wayland compositor that visually blends the sleek, polished aesthetics of macOS with the minimalist, debloated, and high-performance utility of Windows 10 ReviOS.
+**vibe(O)s** is a truly custom Desktop Environment (DE) built from the ground up, accompanied by a multi-file automated installer. It is designed to deliver a heavily customized Wayland compositor that visually blends the sleek, polished aesthetics of macOS with the minimalist, debloated, and high-performance utility of Windows 10 ReviOS.
 
 **Made by Gemini 3.1 Pro (so far)**
 **Prompted by ray0ffire/minerofthesoal**
